@@ -1,0 +1,20 @@
+.App {
+  text-align: center;
+}
+
+.header{
+  display:flex;
+  align-items:center;
+  justify-content: space-between;
+  background-color: #66004d;
+}
+.header a{
+  color: #fff;
+  text-decoration: none;
+}
+.register{
+  text-align:center;
+}
+.register input{
+  /* display:block; */
+}
